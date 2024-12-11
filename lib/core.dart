@@ -1,0 +1,10 @@
+export 'package:flutter_ids/module/picture/binding/picture_binding.dart';
+export 'package:flutter_ids/module/picture/controller/detail_picture_controller.dart';
+export 'package:flutter_ids/module/picture/controller/list_picture_controller.dart';
+export 'package:flutter_ids/module/picture/view/view_detail_picture.dart';
+export 'package:flutter_ids/module/picture/view/view_list_picture.dart';
+export 'package:flutter_ids/module/picture/widget/widget_detail_content.dart';
+export 'package:flutter_ids/module/picture/widget/list_content_widget.dart';
+export 'package:flutter_ids/service/picture/picture_service.dart';
+export 'package:flutter_ids/shared/widget/widget_loading.dart';
+export 'package:flutter_ids/routes/app_pages.dart';
